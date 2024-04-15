@@ -5,7 +5,6 @@ export default function Document() {
     <Html lang="en">
     <Head>
         <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <title>My awesome PWA app</title>
         <meta name="description" content="Best PWA app in the world!" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="manifest" href="/manifest.json" />
