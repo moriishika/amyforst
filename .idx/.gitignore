@@ -1,2 +1,6 @@
 
 gc/
+# all other ignore list
+sw.*
+workbox-*
+swe-worker-*

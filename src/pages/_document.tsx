@@ -5,14 +5,10 @@ export default function Document() {
     <Html lang="en">
     <Head>
         <meta name="viewport" content="width=device-width,initial-scale=1" />
-        <meta name="description" content="Best PWA app in the world!" />
         <link rel="shortcut icon" href="/favicon.ico" />
         <link rel="manifest" href="/manifest.json" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title" content="My awesome PWA app" />
-        <meta property="og:description" content="Best PWA app in the world!" />
-        <meta property="og:site_name" content="Forst Eternity" />
-        <meta property="og:url" content="https://amyforst.vercel.app" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/icons/ios/32.png" />
+          <link rel="icon" type="image/png" sizes="16x16" href="/icons/ios/64.png" />
       </Head>
       <body>
         <Main />
